@@ -11,6 +11,8 @@ r_obj_list = r.json()["all"]
 # This will make it easy to select a random one later
 fact_list = []
 
+# Action source code
+
 # Add the "text" of every object into the fact_list list
 for fact in r_obj_list:
     fact_list.append(fact["text"])

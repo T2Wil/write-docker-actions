@@ -1,3 +1,4 @@
+# Action Metadata
 name: "my hello action"
 
 description: "say hello with GitHub Actions"
